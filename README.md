@@ -41,6 +41,6 @@ We offer the **best support** you will ever experience
 
 We have extended documentation on our software located at <a href=" https://docs.cniper.xyz" target="_blank">https://docs.cniper.xyz</a>. This helps everyone understand every piece of the bot.
 
-**Video demo**
-[![Cniper video demo](https://user-images.githubusercontent.com/96018038/145722500-53f18bf4-ba4d-4525-96ea-6c21c2984105.png)](https://www.youtube.com/watch?v=wVBoqnkCXyk)
+**Check out our other sniper bots for other Blockchains (Arbitrum (ARB), Binance Smart Chain (BSC), Ethereum (ETH), Avalanche (AVAX), Polygon (MATIC), Fantom (FTM), Cronos (CRO), Harmony (ONE), Milkomeda (MilkADA), Moonforce and Pinksale)
+- https://github.com/cniperbot/sniperbot
 
