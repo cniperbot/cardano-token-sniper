@@ -4,7 +4,7 @@ The first mempool (frontrun) sniper bot with lots of features for **Cardano (ADA
 **Join us!**
 
 Website: https://www.cniper.xyz<br />
-Discord: https://discord.gg/3VmemzSJjd<br />
+Discord: https://discord.gg/KJTEbgDWCc<br />
 Telegram: https://t.me/thecniperbot<br />
 
 Documentation: <a href=" https://docs.cniper.xyz" target="_blank">https://docs.cniper.xyz</a>.
