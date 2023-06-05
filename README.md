@@ -12,7 +12,7 @@ Documentation: <a href=" https://docs.cniper.xyz" target="_blank">https://docs.c
 
 # Sniper bot for multiple decentralized exchanges (DEX)
 
-![Cniper bot interface](https://www.cniper.xyz/wp-content/uploads/2023/05/cniper-v1.9.png "sniper bot interface")
+![Cniper bot interface](https://media.discordapp.net/attachments/873075465382924318/1115376316766752918/image.png?width=960&height=603 "sniper bot interface")
 
 **Including a mempool sniper for the fastest snipes that can deal with the following signals:**
 
