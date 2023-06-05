@@ -10,7 +10,7 @@ Telegram: https://t.me/thecniperbot<br />
 
 Documentation: <a href=" https://docs.cniper.xyz" target="_blank">https://docs.cniper.xyz</a>.
 
-# Sniper bot for multiple decentralized exchanges (DEX)
+# Sniper bot for Cardano
 
 ![Cniper bot interface](https://media.discordapp.net/attachments/873075465382924318/1115376316766752918/image.png?width=960&height=603 "sniper bot interface")
 
