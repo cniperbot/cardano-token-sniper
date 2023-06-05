@@ -1,4 +1,4 @@
-# Cardano sniper bot
+# Cardano (ADA) sniper bot
 The first mempool (frontrun) sniper bot with lots of features for **Cardano (ADA)**. Supporting Miniswap and other Cardano DEXes.
 
 **Join us!**
