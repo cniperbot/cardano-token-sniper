@@ -1,5 +1,11 @@
-# sniperbot
+# Cardano sniper bot
 The first mempool (frontrun) sniper bot with lots of features for **Cardano (ADA)**.
+
+**Join us!**
+
+Website: https://www.cniper.xyz<br />
+Discord: https://discord.gg/3VmemzSJjd<br />
+Telegram: https://t.me/thecniperbot<br />
 
 Documentation: <a href=" https://docs.cniper.xyz" target="_blank">https://docs.cniper.xyz</a>.
 
@@ -30,12 +36,6 @@ We offer the **best support** you will ever experience
 * Updates (We respond fast, after a bug is reported)
 * Lifetime support at Discord
 * Private Discord channels with our admins and other bot owners to talk about snipe targets and how to deal with them
-
-**Join us!**
-
-Website: https://www.cniper.xyz<br />
-Discord: https://discord.gg/3VmemzSJjd<br />
-Telegram: https://t.me/thecniperbot<br />
 
 **Frequently asked questions and documentation**
 
