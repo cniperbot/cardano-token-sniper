@@ -1,6 +1,6 @@
 ![Cardano sniper bot](https://www.cniper.xyz/wp-content/uploads/2023/06/cardano-6306459_1280-e1685994188724.png "Cardano logo")
 # Cardano (ADA) sniper bot
-The first mempool (frontrun) sniper bot with lots of features for **Cardano (ADA)**. Supporting Miniswap and other Cardano DEXes.
+The first mempool (frontrun) sniper bot with lots of features for **Cardano (ADA)**. Supporting Miniswap and other Cardano DEXes in the future.
 
 **Join us!**
 
