@@ -14,6 +14,14 @@ Documentation: <a href=" https://docs.cniper.xyz" target="_blank">https://docs.c
 
 ![Cniper bot interface](https://media.discordapp.net/attachments/873075465382924318/1115376316766752918/image.png?width=960&height=603 "sniper bot interface")
 
+Sniper bot for Cardano blockchain currently supporting **Minswap** and the following decentralized exchanges (DEX) will be added in the future:
+
+* Dexhunter swap
+* Spectrum Finance (ergoDEX)
+* Adaswap
+* Wingriders
+* MuesliSwap
+
 **Including a mempool sniper for the fastest snipes that can deal with the following signals:**
 
 * **Liquidity** added
