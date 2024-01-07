@@ -12,7 +12,7 @@ Documentation: <a href=" https://docs.cniper.xyz" target="_blank">https://docs.c
 
 # Sniper bot for Cardano
 
-![Cniper bot interface](https://media.discordapp.net/attachments/873075465382924318/1115376316766752918/image.png?width=960&height=603 "sniper bot interface")
+![Cniper bot interface](![image](https://github.com/cniperbot/cardano-token-sniper/assets/96018038/747b1342-5efa-4fc0-afa2-cf16f9041687 "sniper bot interface")
 
 Sniper bot for Cardano blockchain supporting:
 
